@@ -10,3 +10,5 @@ In this repository are test scenarios imported from JIRA.
 ![Captură de ecran din 2022 11 02 la 19 13 42](https://user-images.githubusercontent.com/117184407/199557175-49401ca4-4036-4d75-8552-704a006b3b97.png)
 ![Captură de ecran din 2022 11 02 la 19 13 59](https://user-images.githubusercontent.com/117184407/199557186-25f414c7-4bc2-4e94-bd7c-2be8b317665d.png)
 ![Captură de ecran din 2022 11 02 la 19 14 15](https://user-images.githubusercontent.com/117184407/199557192-37489a2c-e45a-4bc5-b292-4e217acc5e63.png)
+![Captură de ecran din 2022 11 02 la 19 34 13_1](https://user-images.githubusercontent.com/117184407/199562003-43acdf15-af33-4fa7-a8e9-522214924397.png)
+![Captură de ecran din 2022 11 02 la 19 37 05](https://user-images.githubusercontent.com/117184407/199562010-a3b40f79-1420-4dba-9968-8bf96f55efd4.png)
