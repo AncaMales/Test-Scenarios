@@ -1,5 +1,5 @@
-**Test-Scenarios**
-In this repository are test scenarios that I wrote while doing the course at Manual Tester Course (Coderslab-eJobs Group) and are imported from JIRA.
+# Test-Scenarios
+#### In this repository are test scenarios that I wrote while doing the course at Manual Tester Course (Coderslab-eJobs Group) and are imported from JIRA.
 ---
 
 ![Captură de ecran din 2022 11 02 la 19 09 34](https://user-images.githubusercontent.com/117184407/199555813-884a5d65-f9eb-4414-9d84-243db250179f.png)
